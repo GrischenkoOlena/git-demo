@@ -5,6 +5,11 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+//The pizza delivery service processes its orders on the first come, first served basis. 
+//After a client has paid for his/her order, he/she is added to the online waiting list. 
+//After the pizza is ready, the information is passed to a courier, saved to a file, and removed from the waiting list. 
+//Display the number of customers who are currently waiting for an order.
+
 class Pizza
 { //class for order data
 	String name;
