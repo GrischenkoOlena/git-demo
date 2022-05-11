@@ -26,7 +26,6 @@ class Pizza
 	public String toString(){
 		return "pizza: " + name + " " + cost + " " + quantity;
 	}
-	
 }
 
 
@@ -160,7 +159,6 @@ class MyQueue
 			System.out.println("Number of clients " + count);
 		}
 	}
-	
 }
 
 
