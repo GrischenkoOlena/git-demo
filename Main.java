@@ -9,6 +9,7 @@ import java.util.Scanner;
 //After a client has paid for his/her order, he/she is added to the online waiting list. 
 //After the pizza is ready, the information is passed to a courier, saved to a file, and removed from the waiting list. 
 //Display the number of customers who are currently waiting for an order.
+//We can add new order and view old
 
 class Pizza
 { //class for order data
